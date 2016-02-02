@@ -3,7 +3,9 @@ coindonatoinwidget.com
 
 This widget is forked from coinwidget.com.
 
-For more information, visit http://coindonationwidget.com/
+http://coindonationwidget.com/ will be closed in March 2016.
+
+Do not forget to change from coindonationwidget.com to your own URL in the code.
 
 New features:
 
@@ -13,7 +15,7 @@ Multiple cryptocurrencies support(6 coins plus 3 japanese coins now):
 	
 	Monacoin, Sakuracoin, Sha1coin
 
-Multiple language support:
+Multiple languages support:
 
 	Japanese(default), English
 
